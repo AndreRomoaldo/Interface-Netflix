@@ -113,5 +113,9 @@ header nav a:hover{
     margin-top: 5px;
 }
 
+.item {
+    width: 380px;
+    height: 250px;
+}
 
 
